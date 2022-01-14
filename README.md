@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Gavin. I study Computer Science at **Northeastern University**.
+My favorite classes so far include
+  - Object Oriented Design
+  - Algorithms & Data
+  - Computer Systems
+
+Since 2021, I've been a **Teaching Assistant** and currently TA Fundamentals of Computer Science 2.
+
+I love learning about all aspects of computing and programming, sharing my knowledge with others, and creating!
+
 
 <!--
 **gavin-white/gavin-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
