@@ -8,7 +8,7 @@ My favorite classes so far include
 Since 2021, I've been a **Teaching Assistant** and I'm currently a **Lead TA** for Fundamentals of Computer Science 2 where I
   * Teach programming concepts to a lab of 40 students
   * Hold weekly office hours to individually tutor students
-  * Grade assignments, providing feedback on semantic and styllistic correctness
+  * Grade assignments, providing feedback on semantic and stylistic correctness
 
 I love learning about all aspects of computing and programming, sharing my knowledge with others, and creating!
 
