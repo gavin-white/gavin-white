@@ -1,11 +1,14 @@
 ### Hi there 👋
 I'm Gavin. I study Computer Science at **Northeastern University**.
 My favorite classes so far include
-  - Object Oriented Design
-  - Algorithms & Data
-  - Computer Systems
+  * Object Oriented Design
+  * Algorithms & Data
+  * Computer Systems
 
-Since 2021, I've been a **Teaching Assistant** and currently TA Fundamentals of Computer Science 2.
+Since 2021, I've been a **Teaching Assistant** and I'm currently a **Lead TA** for Fundamentals of Computer Science 2 where I
+  * Teach programming concepts to a lab of 40 students
+  * Hold weekly office hours to individually tutor students
+  * Grade assignments, providing feedback on semantic and styllistic correctness
 
 I love learning about all aspects of computing and programming, sharing my knowledge with others, and creating!
 
