@@ -6,12 +6,13 @@ My favorite classes so far include
   * Computer Systems
 
 Since 2021, I've been a **Teaching Assistant** and I'm currently a **Lead TA** for Fundamentals of Computer Science 2 where I
-  * Teach programming concepts to a lab of 40 students
+  * Teach programming concepts to a lab of 35+ students
   * Hold weekly office hours to individually tutor students
   * Grade assignments, providing feedback on semantic and stylistic correctness
 
 I love learning about all aspects of computing and programming, sharing my knowledge with others, and creating!
 
+For more details about my experience and to get in touch, visit my **[LinkedIn](https://linkedin.com/in/gavinwh)**
 
 <!--
 **gavin-white/gavin-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
