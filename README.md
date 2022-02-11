@@ -12,7 +12,7 @@ Since 2021, I've been a **Teaching Assistant** and I'm currently a **Lead TA** f
 
 I love learning about all aspects of computing and programming, sharing my knowledge with others, and creating!
 
-For more details about my experience and to get in touch, visit my **[LinkedIn](https://linkedin.com/in/gavinwh)**
+For more details about my experience and to get in touch, visit my website **[gavinwh.com](https://gavinwh.com)**
 
 <!--
 **gavin-white/gavin-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
