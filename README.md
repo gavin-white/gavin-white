@@ -5,8 +5,7 @@ My favorite classes so far include
   * Algorithms & Data
   * Computer Systems
 
-Since 2021, I've been a **Teaching Assistant** and I'm currently a **Lead TA** for Fundamentals of Computer Science 2 where I
-  * Teach programming concepts to a lab of 35+ students
+Since 2021, I've been a **Teaching Assistant** and I'm currently a TA for Object Oriented Design where I
   * Hold weekly office hours to individually tutor students
   * Grade assignments, providing feedback on semantic and stylistic correctness
 
