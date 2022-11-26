@@ -5,9 +5,9 @@ My favorite classes so far include
   * Algorithms & Data
   * Computer Systems
 
-Since 2021, I've been a **Teaching Assistant** and I'm currently a TA for Object Oriented Design where I
-  * Hold weekly office hours to individually tutor students
-  * Grade assignments, providing feedback on semantic and stylistic correctness
+At Northeastern I've been both a **Teaching Assistant** and **Peer Tutor** for Object-Oriented Design and Funamentals of Computer Science.
+
+I am currently a **Software Engineer Co-op** at Wayfair where I contribute to a professional development team in the financial technology space.
 
 I love learning about all aspects of computing and programming, sharing my knowledge with others, and creating!
 
