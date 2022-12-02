@@ -5,7 +5,7 @@ My favorite classes so far include
   * Algorithms & Data
   * Computer Systems
 
-At Northeastern I've been both a **Teaching Assistant** and **Peer Tutor** for Object-Oriented Design and Funamentals of Computer Science.
+At Northeastern I've been both a **Teaching Assistant** and **Peer Tutor** for Object-Oriented Design and Fundamentals of Computer Science.
 
 I am currently a **Software Engineer Co-op** at Wayfair where I contribute to a professional development team in the financial technology space.
 
